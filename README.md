@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gblair/puppet-harvest.png?branch=master)](https://travis-ci.org/gblair/puppet-harvest)
+[![Build Status](https://travis-ci.org/boxen/puppet-harvest.png?branch=master)](https://travis-ci.org/boxen/puppet-harvest)
 # Harvest Puppet Module for Boxen
 
 Installs the simple and quite useful (if you use Harvest) little Harvest time tracking client (http://www.getharvest.com/)
