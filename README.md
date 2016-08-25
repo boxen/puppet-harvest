@@ -1,14 +1,7 @@
-[![Build Status](https://travis-ci.org/boxen/puppet-harvest.png?branch=master)](https://travis-ci.org/boxen/puppet-harvest)
 # Harvest Puppet Module for Boxen
 
-Installs the simple and quite useful (if you use Harvest) little Harvest time tracking client (http://www.getharvest.com/)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-## Usage
-
-```puppet
-include harvest
-```
-
-## Required Puppet Modules
-
-* `boxen`
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
